@@ -1,0 +1,35 @@
+li {
+  color    : blue;
+  font-size: 15px;
+}
+
+h3 {
+  font-family: 'Alkatra', cursive;
+  font-size  : 30px;
+}
+
+img {
+  width: 300px
+}
+
+.lactancia {
+  width        : 100px;
+  border-width : 20px;
+  border-color : red;
+  border-style : double;
+  border-radius: 50%;
+}
+
+.bordes-redondiados {
+  border-radius: 50%;
+}
+
+div {
+  background-color: blueviolet;
+}
+
+#lactancia-materna {
+  font-size  : 40;
+  color      : silver;
+  font-family: fantasy;
+}
